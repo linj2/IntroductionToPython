@@ -9,8 +9,8 @@
 #
 ########################################################################
 
-print('Hello, World')
-print('hi there')
-print('one', 'two', 'buckle my shoe')
+print('Hello World!')
+print('hello here')
+print('teemo', 'teemo', 'on duty')
 print(3 + 9)
-print('3 + 9', 'versus', 3 + 9)
+print('3 + 9', 'equals', 3 + 9)
